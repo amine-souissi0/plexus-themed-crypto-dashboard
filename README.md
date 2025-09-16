@@ -268,8 +268,4 @@ Check runs under your repo → **Actions** tab. **Green check** = success.
 
 ---
 
-## Talking Points for Recruiters
 
-- “This demo mirrors what Web3 teams need: **reliable infra & deployment**, clean **CI**, and a UI that surfaces live data.”  
-- “I kept it lean (no heavy frameworks beyond Next/React) and production-friendly (Docker, caching, health check, CI).”  
-- “It’s easy to extend with **Terraform/Kubernetes**, alerts, or wallet connect to fit specific client use cases.”
